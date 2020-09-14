@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yc_qian/my-redis/rbtree.c
+rbtree.h
+/home/yc_qian/my-redis/rbtree.h
+
+/home/yc_qian/my-redis/rbtree.h
+stdbool.h
+-
+stdlib.h
+-
+malloc.h
+-
+string.h
+-
+

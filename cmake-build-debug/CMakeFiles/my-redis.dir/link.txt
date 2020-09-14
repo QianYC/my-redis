@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmy-redis.a  CMakeFiles/my-redis.dir/my-redis.c.o CMakeFiles/my-redis.dir/hash.c.o CMakeFiles/my-redis.dir/rbtree.c.o
+/usr/bin/ranlib libmy-redis.a

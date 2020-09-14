@@ -1,0 +1,4 @@
+/home/yc_qian/my-redis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yc_qian/my-redis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yc_qian/my-redis/cmake-build-debug/CMakeFiles/main.dir
+/home/yc_qian/my-redis/cmake-build-debug/CMakeFiles/my-redis.dir

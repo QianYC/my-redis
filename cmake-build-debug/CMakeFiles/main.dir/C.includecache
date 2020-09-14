@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yc_qian/my-redis/hash.h
+stddef.h
+-
+
+/home/yc_qian/my-redis/main.c
+stdio.h
+-
+my-redis.h
+/home/yc_qian/my-redis/my-redis.h
+rbtree.h
+/home/yc_qian/my-redis/rbtree.h
+
+/home/yc_qian/my-redis/my-redis.h
+stddef.h
+-
+malloc.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+hash.h
+/home/yc_qian/my-redis/hash.h
+
+/home/yc_qian/my-redis/rbtree.h
+stdbool.h
+-
+stdlib.h
+-
+malloc.h
+-
+string.h
+-
+
